@@ -1,0 +1,8 @@
+2022-Nov-07 09:57:58.736157 INFO [simplewallet] pitcoin wallet v1.1.1.1(0.1-g672625cee3)
+2022-Nov-07 09:58:09.663077 INFO [simplewallet] Loading wallet...
+2022-Nov-07 09:58:09.717103 INFO [simplewallet] Opened wallet: Pv8LnZk1CLWbbqMUTmYzUXZRpSFVW7nmVUsi7z1G1ntKBC74vmvvxj9S6gfBt5cXzKXqVj1Jmt1KZjpCmm7SGc7B12eHLVzdC
+2022-Nov-07 09:58:09.717443 INFO [simplewallet] **********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
+2022-Nov-07 09:58:12.902828 INFO [simplewallet] available balance: 0.000000000000, locked amount: 0.000000000000
+2022-Nov-07 09:59:04.694844 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:25143).
